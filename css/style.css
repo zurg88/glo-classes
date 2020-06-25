@@ -1,0 +1,36 @@
+body {
+	display: flex;
+	justify-content: center;
+}
+
+.header-button {
+	width: 80px;
+	height: 40px;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+.create-control {
+	padding: 0 30%;
+	text-align: center;
+}
+
+.create-control label {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+input {
+	margin: 10px 0;
+	line-height: 2em;
+	padding-left: 5px;
+	outline: none;
+	border: 2px solid tomato;
+	border-radius: 5px;
+}
+
+.header-button {
+	background-color: tomato;
+	border: 1px solid tomato;
+	border-radius: 5px;
+}
