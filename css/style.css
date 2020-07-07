@@ -37,17 +37,7 @@ input {
 	margin-top: 50px;
 }
 
-/* .created-elements-section div {
-	background-color: #f7f5f5;
-	border: 1px solid gray;
-	width: 100px;
-	height: 100px;
+main {
+	position: relative;
+	margin-top: 40px;
 }
-
-.created-elements-section p {
-	background-color: #f7f5f5;
-	border: 1px solid gray;
-	width: 100px;
-	height: 10px;
-} */
-
